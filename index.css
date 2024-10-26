@@ -1,0 +1,66 @@
+.title{
+    text-align: center;
+    background-color:#294d50;
+    height: 20vh;
+}
+.heading{
+    font-size: 5rem;
+}
+span{
+    color:rgb(102, 78, 123);
+}
+.countainer{
+    background-color:#629584;
+    padding-bottom: 40px;
+}
+.player-countainer{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+.result{
+    display: flex;
+    justify-content: center;
+}
+.player{
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.dicee-countainer{
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    height: 50vh;
+    
+}
+.button-countainer{
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn{
+    width: 150px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+    0 10px 10px rgba(0,0,0,0.22);
+    z-index: 2;
+}
+footer{
+    height: 24vh;
+    background-color: #E2F1E7;
+    font-weight: bold;
+
+}
+li{
+    list-style:none ;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.Copyright{
+    text-align: center;
+}
